@@ -55,4 +55,4 @@ cp /var/lib/mock/${MOCK_CONFIG}/result/*.rpm out/
 mock --root ${MOCK_CONFIG} ${ZFS_DKMS_SRPM_PKG}
 cp /var/lib/mock/${MOCK_CONFIG}/result/${ZFS_DKMS_NOARCH_PKG} out/
 
-rm -vf out/*.src.spm
+rm -vf out/*.src.rpm
