@@ -2,7 +2,7 @@
 
 # only this needs changing
 ZFS_VERSION=2.1.11
-ZFS_RELEASE=1
+ZFS_RELEASE=2
 EL_NAME=rocky
 
 # for mock config
